@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\MemoryManagement_Assignment14\MemoryManagement_Assignment14\bin\Debug\MemoryManagement_Assignment14.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\MemoryManagement_Assignment14\MemoryManagement_Assignment14\bin\Debug\MemoryManagement_Assignment14.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\MemoryManagement_Assignment14\MemoryManagement_Assignment14\bin\Debug\MemoryManagement_Assignment14.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\MemoryManagement_Assignment14\MemoryManagement_Assignment14\obj\Debug\MemoryManagement_Assignment14.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\MemoryManagement_Assignment14\MemoryManagement_Assignment14\obj\Debug\MemoryManagement_Assignment14.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\MemoryManagement_Assignment14\MemoryManagement_Assignment14\obj\Debug\MemoryManagement_Assignment14.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\MemoryManagement_Assignment14\MemoryManagement_Assignment14\obj\Debug\MemoryManagement_Assignment14.pdb
